@@ -1,0 +1,9 @@
+cmake-build-debug/
+Drivers/
+.idea/
+FOC.ioc
+.mxproject
+.cproject
+.project
+CMakeLists_template.txt
+CMakeLists.txt
